@@ -404,6 +404,7 @@ main{
     gap: 40px;
     align-items: center;
     padding-left: 40px;
+    border-radius: 10px;
 }
 
 .rt .line3{
@@ -602,4 +603,442 @@ main{
     font-weight: 40;
     letter-spacing: 3px;
     color: rgba(47, 47, 47, 0.752);
+}
+
+.section8{
+    background-color: black;
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+
+}
+
+.another{
+    display: flex;
+    gap: 50px;
+    /* align-items: center; */
+    padding-left: 200px;
+}
+
+.section8 .line5{
+    background-color: rgba(227, 226, 226, 0.744);
+    width: 3px;
+    height: 500px;
+}
+
+.industry h4{
+      color: rgb(206, 204, 204);
+    font-weight: 50;
+    letter-spacing: 3px;
+
+}
+
+.industry h3{
+    color: rgba(247, 245, 245, 0.855);
+    letter-spacing: 2px;
+    font-size: 35px;
+    font-weight: 50;
+
+}
+
+.industry p{
+    color: rgb(232, 229, 229);
+    font-weight: 20;
+    letter-spacing: 2px;
+    font-size: 16px;
+    line-height: 2;
+}
+
+.industry{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.logos{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    width: 50%;
+    height: 500px;
+    justify-content: space-between;
+    
+}
+
+.a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+    
+}
+
+.a1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 35px;
+}
+
+.a2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 35px;
+}
+
+
+.a1 .pic6{
+    background-image: url("https://static.wixstatic.com/media/c837a6_a8508672733a4bb7ba100662952d4f6f~mv2.png/v1/fill/w_280,h_280,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/General_Transport.png");
+    width: 100px;
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.a2 .pic7{
+    background-image: url("https://static.wixstatic.com/media/c837a6_24669e1d20cd4f079fd2ea5e253c99b8~mv2.png/v1/fill/w_176,h_128,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IDI_Software.png");
+    width: 100px;
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.a h4{
+    font-size: 20px;
+    font-weight: 20;
+    color: rgba(215, 213, 213, 0.831);
+}
+
+.b{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 220px;
+}
+
+.b1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 35px;
+}
+
+.b2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 35px;
+}
+
+.b1 .pic8{
+    background-image: url("https://static.wixstatic.com/media/c837a6_db1c6e9c1b95497f81465ccd218fa048~mv2.png/v1/fill/w_176,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Imogen_Cars.png");
+    width: 100px;
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.b2 .pic9{
+    background-image: url("https://static.wixstatic.com/media/c837a6_81bc98e386764170adbb3e97cc7e1655~mv2.png/v1/fill/w_256,h_128,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Tri-Nex%20.png");
+    width: 100px;
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.b h4{
+    font-size: 20px;
+    font-weight: 20;
+    color: rgba(215, 213, 213, 0.831);
+}
+
+
+.line6{
+    background-color: rgba(213, 211, 211, 0.755);
+    width: 100%;
+    height: 2px;
+}
+.section9{
+    background-color: black;
+    width: 100%;
+    height: 80vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.section9 .line7{
+    background-color: rgba(210, 209, 209, 0.786);
+    width: 3px;
+    height: 400px;
+}
+
+.another2{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    padding-left: 70px;
+}
+
+.careers{
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.careers h4{
+    color: rgb(206, 204, 204);
+    font-weight: 50;
+    letter-spacing: 3px;
+
+}
+
+.careers h3{
+    color: rgba(247, 245, 245, 0.855);
+    letter-spacing: 2px;
+    font-size: 30px;
+    font-weight: 50;
+    line-height: 1.5;
+
+}
+
+.careers .btn6{
+     background-color:black;
+    padding: 13px;
+    align-self: flex-start;
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    color: white;
+    font-size: 17px;
+    border-color: rgba(59, 58, 58, 0.554);
+    border-radius: 10px;
+    border-color: white;
+}
+
+.careers .btn6:hover{
+    background-color: white;
+    color: black;
+    border-color:black ;
+}
+
+.btn6 .line5{
+    background-color: white;
+    width: 1px;
+    height: 20px;
+}
+
+.electrical{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid rgba(209, 206, 206, 0.772);
+    height: 500px;
+    width: 400px;
+    border-radius: 10px;
+    justify-content: center;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+.electrical h4{
+     color: rgb(228, 226, 226);
+    font-weight: 50;
+    letter-spacing: 3px;
+}
+
+.electrical p{
+    color: rgb(232, 229, 229);
+    font-weight: 20;
+    font-size: 18px;
+    line-height: 2;
+
+
+}
+
+.electrical p:nth-child(2){
+    color: rgba(185, 184, 184, 0.806);
+    font-weight: 20;
+    font-size: 18px;
+    line-height: 2;
+
+}
+
+.electrical .btn7{
+    background-color:black;
+    padding: 13px;
+    align-self: flex-start;
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    color: white;
+    font-size: 17px;
+    border-color: rgba(59, 58, 58, 0.554);
+    border-radius: 10px;
+    border-color: white;
+
+}
+
+.electrical .btn7:hover{
+    background-color: white;
+    color: black;
+}
+
+.btn7 .line5{
+    background-color: white;
+    width: 1px;
+    height: 20px;
+}
+
+footer{
+    background-color: white;
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 80px 300px;
+    justify-content: space-around;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.another4{
+    display: flex;
+    gap: 90px;
+}
+
+.f1{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    gap: 50px;
+
+}
+
+.f2{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    gap: 50px;
+}
+
+.f3{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.f1 p{
+    font-size: 20px;
+    color: rgba(59, 59, 59, 0.845);
+    font-weight: 30;
+}
+
+.f2 p{
+    font-size: 20px;
+    color: rgba(59, 59, 59, 0.845);
+    font-weight: 30;
+
+}
+
+footer h2{
+    letter-spacing: 9px;
+    font-size: 25px;
+}
+
+.f3 h3{
+    color: rgba(77, 76, 76, 0.891);
+    font-weight: 20;
+    letter-spacing: 2px;
+}
+
+.f3 p{
+    font-size: 20px;
+    color: rgba(59, 59, 59, 0.845);
+    font-weight: 30;
+    font-weight: 20;
+
+}
+
+.another6{
+    line-height: 3;
+}
+
+.f3 .email{
+    font-size: 20px;
+    color: rgba(59, 59, 59, 0.845);
+    font-weight: 30;
+    font-weight: 20;
+
+}
+
+.f3 .input{
+    padding: 10px 80px;
+    border-radius: 10px;
+    border-color: rgba(108, 105, 105, 0.866);
+    outline: none;
+    
+}
+
+.f3 .btn8{
+    background-color: black;
+    color: rgba(220, 217, 217, 0.888);
+    padding: 7px 30px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.f3 .btn8:hover{
+    background-color: white;
+    color: black;
+}
+
+.another5{
+    display: flex;
+    gap: 10px;
+}
+
+.last{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+}
+
+.last p{
+    font-size: 20px;
+    color: rgba(59, 59, 59, 0.845);
+    font-weight: 30;
+    font-weight: 20;
+}
+
+.last .link1{
+    color: inherit;
+}
+
+.last2{
+    display: flex;
+    gap: 30px;
+    justify-self: flex-end;
+    align-self: flex-end;
+
+}
+
+.last2 i{
+    color: black;
+    font-size: 20px;
+
 }
